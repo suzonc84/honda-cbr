@@ -1,0 +1,29 @@
+.card-image {
+    width: 150px;
+    height: 150px;
+}
+.bike-image{
+    filter: grayscale(100%);
+}
+header{
+    background-color: #264653;
+    color: white;
+
+}
+.purchase-button{
+    background-color: #E76F51;
+    width: 168px;
+    height: 77px;
+    color: white;
+    font-weight: bold;
+
+}
+.star-icon{
+    color: orangered;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+   body{
+    font-family: Poppins;
+   
+   }
